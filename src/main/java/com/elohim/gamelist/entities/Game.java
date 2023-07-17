@@ -104,7 +104,7 @@ public class Game {
 	}
 
 	public String getShortDescription() {
-		return shortDiscription;
+		return shortDescription;
 	}
 
 	public void setShortDescription(String shortDescription) {
